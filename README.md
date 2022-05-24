@@ -1,4 +1,4 @@
-# lanternaComReactNative-Dio
+# Lanterna com react native - Dio
 Projeto lanterna com react native, feito no bootcamp da dia Decola Tech 3a edição.
 # Conteúdo estudado
 - Conhecendo o React Native
